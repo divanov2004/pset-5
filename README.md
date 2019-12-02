@@ -1,6 +1,6 @@
 # Problem Set 5
 
-It's time to put your skills to the test. This problem set focuses on programming in JavaScript. More specifically, it focuses on using Canvas API functions (not to be confused with the Canvas we use for submitting assignments), writing your own functions, and connecting those functions to buttons in your HTML. Yes, HTML and CSS are back!
+It's time to put your skills to the test. This problem set focuses on programming in JavaScript. More specifically, it focuses on using [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) functions (not to be confused with the Canvas we use for submitting assignments), writing your own functions, and connecting those functions to buttons in your HTML. Yes, HTML and CSS are back!
 
 ## Getting Started
 
