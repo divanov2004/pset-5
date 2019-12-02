@@ -1,0 +1,96 @@
+body {
+    margin: auto;
+    width: 1224px;
+}
+
+body:last-child {
+  margin-bottom: 3%;
+}
+
+h1 {
+  font: bold 2.2em "Century Gothic", "Century Gothic", "Apple Gothic", sans-serif;
+  text-align: center;
+}
+
+h3 {
+  margin-bottom: 0.25em;
+  font: bold 1.1em "Century Gothic", "Century Gothic", "Apple Gothic", sans-serif;
+  letter-spacing: 0.1em;
+}
+
+button {
+  display: inline-block;
+  margin: auto;
+  margin-left: 1%;
+  margin-right: 1%;
+  height: 3em;
+  font: 1.1em "Century Gothic", "Century Gothic", "Apple Gothic", sans-serif;
+}
+
+button:hover {
+  box-shadow: 0.3em 0.3em 0.3em #777777;
+}
+
+canvas {
+  display: block;
+  margin: 0;
+}
+
+.exercise {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 3%;
+}
+
+.header hr {
+  width: 80%;
+}
+
+.output,
+.sample {
+  display: block;
+  width: 1024px;
+  height: 5em;
+  padding: 0%;
+  border: 0.1em solid black;
+  overflow: scroll;
+  font: 1.1em "Century Gothic", "Century Gothic", "Apple Gothic", sans-serif;
+}
+
+.output div,
+.sample div {
+    width: 1024px;
+}
+
+#output-1,
+#output-3,
+#sample-1,
+#sample-3 {
+  height: 128px;
+}
+
+#output-6,
+#output-7,
+#sample-6,
+#sample-7 {
+  height: 256px;
+}
+
+#output-2,
+#output-4,
+#output-5,
+#output-6,
+#output-7,
+#output-8,
+#sample-2,
+#sample-4,
+#sample-5,
+#sample-6,
+#sample-7,
+#sample-8 {
+  height: 512px;
+}
+
+.exercise div {
+  text-align: center;
+}
