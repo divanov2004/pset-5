@@ -102,7 +102,7 @@ Make sure you clear the canvas before drawing. Never draw on top of a previous d
 
 Implement a function that draws a smiley face on the canvas. Prompt the user for the radius of the head. The eyes and mouth will derive their dimensions from the radius of the head.
 
-* The radius of the head must be between 64 and half the height of the canvas.
+* The radius of the head must be between 32 and half the height of the canvas.
 * The radius of the eyes must be 15% of the radius of the head.
 * The radius of the mouth must be 70% of the radius of the head.
 * The head must be centered around the midpoints (vertically and horizontally) of the canvas.
