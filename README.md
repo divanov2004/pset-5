@@ -41,7 +41,7 @@ Work through these exercises on your own. Experiment, make mistakes, ask questio
 Implement a function that draws a message on the canvas. Prompt the user for the message to be drawn.
 
 * The origin must be (30, 70).
-* The font style must be `sans-serif`.
+* The font must be `sans-serif`.
 * The font size must be `48px`.
 * The message text must be outlined (i.e., unfilled).
 * The message text cannot exceed 50 characters.
