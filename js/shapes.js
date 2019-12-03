@@ -18,7 +18,7 @@ window.onload = function() {
     // there are six event listeners being added for the staff solutions. you'll have an
     // equivalent set of six event listeners for your solutions. the first one is done for you.
 
-    this.document.getElementById("hello").onclick = sayHello;
+    document.getElementById("hello").onclick = sayHello;
 }
 
 /*
