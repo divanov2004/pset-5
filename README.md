@@ -128,9 +128,9 @@ Make sure you clear the canvas before drawing. Never draw on top of a previous d
 
 Please read very carefully. Historically, most students lose points on problem sets for simply failing to read the instructions and requirements.
 
-* December 9, 2019, at 11:59pm.
+* December 11, 2019, at 11:59pm.
 
-If you submit your problem set at midnight (i.e., December 10, 2019, at 12:00am), it is considered **late**!
+If you submit your problem set at midnight (i.e., December 12, 2019, at 12:00am), it is considered **late**!
 
 ### Submission Requirements
 
