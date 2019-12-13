@@ -273,7 +273,7 @@ const canvas = document.getElementById("student-canvas-6");
         alert("Your block size must be at least 1.")
       }
       else if (side > 100) {
-        alert("Your pyramid will fit on the canvas")
+        alert("Your pyramid won't fit on the canvas.")
       }
       else if (isNaN(side)) {
         alert("Your block size is not a number.")
